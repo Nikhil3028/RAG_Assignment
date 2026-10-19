@@ -1,0 +1,8 @@
+id,category,query,gold clause,gold chunk,baseline rank,re-ranked rank,rank shift,in baseline top3,in re-ranked top3,baseline top3,re-ranked top3
+KT1,Keyword trap,Can a player stop the clock to go to the toilet?,6.11.2,6.10.2–6.11.3,8,1,#8 → #1,False,True,6.2.1.2–6.2.3 | 6.2.4–6.3 | 8.4–8.5.1,6.10.2–6.11.3 | 6.2.1.2–6.2.3 | 6.2.4–6.3
+KT2,Keyword trap,Can a player use two hands to castle?,7.5.4,7.5.2–7.5.4,8,1,#8 → #1,False,True,4.4.2–4.4.4 | 3.8.2.1–3.9 | 4.3.2–4.4.1,7.5.2–7.5.4 | II.2.3–II.3.1 | 4.4.2–4.4.4
+EX1,Exception,"If a player runs out of time, do they always lose the game?",6.9,6.9–6.10.1,7,2,#7 → #2,False,True,6.7.2–6.8 | 8.6–8.7 | 8.4–8.5.1,I.10–I.12 | 6.9–6.10.1 | Glossary p.37
+EX2,Exception,Is the draw automatic after 50 moves without capture?,9.6.2,9.6.2,4,3,#4 → #3,False,True,9.3.1–9.5 | III.3.1.2–III.4 | 9.1.2.3–9.2.2,9.3.1–9.5 | Glossary p.41 | 9.6.2
+NG1,Negation,What is the arbiter not allowed to tell a player during the game?,12.6,12.4–12.6,4,3,#4 → #3,False,True,11.2.4–11.3.2 | 12.7–12.9.3 | 11.3.3–11.4,12.7–12.9.3 | 11.2.4–11.3.2 | 12.4–12.6
+BU1,Buried chunk,Can a player be penalised for knocking pieces over?,7.4.3,7.3–7.5,8,3,#8 → #3,False,True,11.5–11.8 | 4.8–4.9 | 12.9.4–12.9.9,6.2.4–6.3 | 4.8–4.9 | 7.3–7.5
+CTRL,Control (regression),Can the time on the clock be corrected after an illegal move?,7.1,7.1–7.2.2,3,7,#3 → #7,True,False,7.5.1 | 7.5.2–7.5.4 | 7.1–7.2.2,7.5.1 | I.13–I.14 | 7.5.2–7.5.4

@@ -1,0 +1,9 @@
+stage,mean ms,median ms,p95 ms,n
+Stage 1: embed query + FAISS top-10,18.9,17.5,26.8,180
+Stage 2: cross-encoder on 10 pairs,825.4,770.6,1169.9,180
+Retrieval total — Pipeline 1 (baseline),18.9,17.5,26.8,180
+Retrieval total — Pipeline 2 (re-rank),844.3,787.2,1196.1,180
+LLM generation — Pipeline 1,4281.9,2812.2,10321.6,7
+LLM generation — Pipeline 2,3184.1,2119.0,7574.2,7
+End-to-end — Pipeline 1,4299.4,2829.7,10339.1,7
+End-to-end — Pipeline 2,3971.3,2906.3,8361.4,7

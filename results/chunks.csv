@@ -1,0 +1,125 @@
+id,label,page,section,chars
+0,0.1,1,Front matter,417
+1,0.2,1,Front matter,698
+2,0.2,1,Front matter,313
+3,1.1–1.4,2,Article 1: The Nature and Objectives of the G,536
+4,1.4.1–1.5,2,Article 1: The Nature and Objectives of the G,452
+5,2.1,2,Article 2: The Initial Position of the Pieces,267
+6,2.2,2,Article 2: The Initial Position of the Pieces,809
+7,2.3–2.4,3,Article 2: The Initial Position of the Pieces,325
+8,3.1–3.2,4,Article 3: The Moves of the Pieces,652
+9,3.3–3.7.1,4,Article 3: The Moves of the Pieces,572
+10,3.7.2–3.7.3.2,5,Article 3: The Moves of the Pieces,681
+11,3.7.3.3–3.8.1,6,Article 3: The Moves of the Pieces,610
+12,3.8.2,7,Article 3: The Moves of the Pieces,600
+13,3.8.2.1–3.9,8,Article 3: The Moves of the Pieces,459
+14,3.9.1–3.10.2,8,Article 3: The Moves of the Pieces,624
+15,3.10.3,8,Article 3: The Moves of the Pieces,94
+16,4.1–4.3.1,8,Article 4: The Act of Moving the Pieces,687
+17,4.3.2–4.4.1,9,Article 4: The Act of Moving the Pieces,663
+18,4.4.2–4.4.4,9,Article 4: The Act of Moving the Pieces,571
+19,4.5–4.7,9,Article 4: The Act of Moving the Pieces,673
+20,4.7.1,10,Article 4: The Act of Moving the Pieces,200
+21,4.7.2–4.7.3,10,Article 4: The Act of Moving the Pieces,662
+22,4.8–4.9,10,Article 4: The Act of Moving the Pieces,346
+23,5.1.1–5.1.2,10,Article 5: The Completion of the Game,496
+24,5.2.1–5.2.2,10,Article 5: The Completion of the Game,612
+25,5.2.3,11,Article 5: The Completion of the Game,165
+26,6.1–6.2.1.1,11,Article 6: The Chessclock,688
+27,6.2.1.2–6.2.3,11,Article 6: The Chessclock,549
+28,6.2.4–6.3,11,Article 6: The Chessclock,660
+29,6.3.1,12,Article 6: The Chessclock,230
+30,6.3.2–6.4,12,Article 6: The Chessclock,645
+31,6.5–6.7.1,12,Article 6: The Chessclock,453
+32,6.7.2–6.8,12,Article 6: The Chessclock,407
+33,6.9–6.10.1,12,Article 6: The Chessclock,662
+34,6.10.2–6.11.3,13,Article 6: The Chessclock,660
+35,6.11.4–6.12.2,13,Article 6: The Chessclock,617
+36,7.1–7.2.2,13,Article 7: Irregularities,667
+37,7.3–7.5,13,Article 7: Irregularities,597
+38,7.5.1,14,Article 7: Irregularities,508
+39,7.5.2–7.5.4,14,Article 7: Irregularities,546
+40,7.5.5,14,Article 7: Irregularities,447
+41,7.6,14,Article 7: Irregularities,375
+42,8.1–8.1.2,14,Article 8: The recording of the moves,664
+43,8.1.3–8.1.5,15,Article 8: The recording of the moves,415
+44,8.1.6–8.3,15,Article 8: The recording of the moves,529
+45,8.4–8.5.1,15,Article 8: The recording of the moves,631
+46,8.5.2–8.5.3,15,Article 8: The recording of the moves,671
+47,8.6–8.7,16,Article 8: The recording of the moves,518
+48,9.1–9.1.2,16,Article 9: The Drawn Game,332
+49,9.1.2.1–9.1.2.2,16,Article 9: The Drawn Game,608
+50,9.1.2.3–9.2.2,16,Article 9: The Drawn Game,590
+51,9.2.3–9.3,17,Article 9: The Drawn Game,594
+52,9.3.1–9.5,17,Article 9: The Drawn Game,618
+53,9.5.1–9.6.1,17,Article 9: The Drawn Game,642
+54,9.6.2,17,Article 9: The Drawn Game,196
+55,10.1–10.2,18,Article 10: Points,494
+56,11.1–11.2.3.3,18,Article 11: The Conduct of the Players,675
+57,11.2.4–11.3.2,18,Article 11: The Conduct of the Players,488
+58,11.3.2.1–11.3.2.2,18,Article 11: The Conduct of the Players,511
+59,11.3.3–11.4,19,Article 11: The Conduct of the Players,569
+60,11.5–11.8,19,Article 11: The Conduct of the Players,601
+61,11.9–11.12,19,Article 11: The Conduct of the Players,568
+62,12.1–12.3,19,Article 12: The Role of the Arbiter (see Pref,679
+63,12.4–12.6,20,Article 12: The Role of the Arbiter (see Pref,591
+64,12.7–12.9.3,20,Article 12: The Role of the Arbiter (see Pref,666
+65,12.9.4–12.9.9,20,Article 12: The Role of the Arbiter (see Pref,426
+66,A.1–A.4,21,Appendix A. Rapid Chess,691
+67,A.4.1–A.5.1.1,21,Appendix A. Rapid Chess,658
+68,A.5.1.2,22,Appendix A. Rapid Chess,231
+69,A.5.2,22,Appendix A. Rapid Chess,596
+70,A.5.3–A.6,22,Appendix A. Rapid Chess,693
+71,B.1–B.2.3,22,Appendix B. Blitz,669
+72,B.3–B.4,22,Appendix B. Blitz,214
+73,C.1,23,Appendix C. Algebraic Notation,600
+74,C.2–C.4,23,Appendix C. Algebraic Notation,671
+75,C.5–C.7,23,Appendix C. Algebraic Notation,620
+76,C.8–C.9.2,24,Appendix C. Algebraic Notation,611
+77,C.9.3–C.10.2.1,24,Appendix C. Algebraic Notation,652
+78,C.10.2.2–C.10.3.3,24,Appendix C. Algebraic Notation,604
+79,C.10.3.4–C.13.4,25,Appendix C. Algebraic Notation,679
+80,C.13.5–C.13.6,25,Appendix C. Algebraic Notation,547
+81,D.1–D.1.4.1,26,Appendix D. Rules for Play with Blind and Vis,695
+82,D.1.4.2–D.2,26,Appendix D. Rules for Play with Blind and Vis,131
+83,D.2.1,26,Appendix D. Rules for Play with Blind and Vis,755
+84,D.2.2–D.2.6,27,Appendix D. Rules for Play with Blind and Vis,644
+85,D.2.6.1–D.2.6.2,27,Appendix D. Rules for Play with Blind and Vis,589
+86,D.2.7–D.2.8,28,Appendix D. Rules for Play with Blind and Vis,271
+87,D.2.9–D.2.10,28,Appendix D. Rules for Play with Blind and Vis,681
+88,D.2.10.1–D.2.10.6,28,Appendix D. Rules for Play with Blind and Vis,625
+89,D.2.11,28,Appendix D. Rules for Play with Blind and Vis,532
+90,I.1–I.1.1,29,Guidelines I. Adjourned Games,666
+91,I.1.2–I.2.7,29,Guidelines I. Adjourned Games,642
+92,I.3–I.6,29,Guidelines I. Adjourned Games,663
+93,I.7–I.9.1,30,Guidelines I. Adjourned Games,595
+94,I.9.2–I.9.3,30,Guidelines I. Adjourned Games,682
+95,I.10–I.12,30,Guidelines I. Adjourned Games,600
+96,I.12.1–I.12.2,31,Guidelines I. Adjourned Games,486
+97,I.13–I.14,31,Guidelines I. Adjourned Games,457
+98,II.1–II.2.2,31,Guidelines II. Chess960 Rules,683
+99,II.2.3–II.3.1,31,Guidelines II. Chess960 Rules,539
+100,II.3.2–II.3.2.4,32,Guidelines II. Chess960 Rules,511
+101,II.3.2.5,32,Guidelines II. Chess960 Rules,434
+102,II.3.2.6,32,Guidelines II. Chess960 Rules,465
+103,II.3.2.7,32,Guidelines II. Chess960 Rules,828
+104,III.1–III.3.1.1,33,Guidelines III. Games without Increment inclu,626
+105,III.3.1.2–III.4,33,Guidelines III. Games without Increment inclu,520
+106,III.5–III.5.1,33,Guidelines III. Games without Increment inclu,685
+107,III.5.2–III.6,33,Guidelines III. Games without Increment inclu,699
+108,III.6.1–III.6.2,34,Guidelines III. Games without Increment inclu,670
+109,Glossary p.34,34,Glossary of Terms in the Laws of Chess,867
+110,Glossary p.35,35,Glossary of Terms in the Laws of Chess,697
+111,Glossary p.35,35,Glossary of Terms in the Laws of Chess,603
+112,Glossary p.36,36,Glossary of Terms in the Laws of Chess,693
+113,Glossary p.36,36,Glossary of Terms in the Laws of Chess,697
+114,Glossary p.36,36,Glossary of Terms in the Laws of Chess,357
+115,Glossary p.37,37,Glossary of Terms in the Laws of Chess,695
+116,Glossary p.37,37,Glossary of Terms in the Laws of Chess,568
+117,Glossary p.38,38,Glossary of Terms in the Laws of Chess,699
+118,Glossary p.38,38,Glossary of Terms in the Laws of Chess,744
+119,Glossary p.39,39,Glossary of Terms in the Laws of Chess,692
+120,Glossary p.39,39,Glossary of Terms in the Laws of Chess,860
+121,Glossary p.40,40,Glossary of Terms in the Laws of Chess,695
+122,Glossary p.40,40,Glossary of Terms in the Laws of Chess,731
+123,Glossary p.41,41,Glossary of Terms in the Laws of Chess,787
